@@ -364,7 +364,7 @@ h1{
 
  @media (max-width:400px) {
   .header{
-    width:370px;
+    width:355px;
     margin-left: 1px;
   }
   h1{
@@ -375,7 +375,7 @@ h1{
   }
   .category{
     font-size: 12px;
-    width:370px;
+    width:355px;
   }
   .frontImage{
     width:350px;
@@ -390,7 +390,7 @@ h1{
     font-size: 12px;
   }
   .count{
-    font-size: 10px;
+    font-size: 8pxpx;
   }
   .cart-totalPrice{
     font-size: 12px;
