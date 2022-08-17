@@ -360,6 +360,8 @@ h1{
   .category{
     font-size: 25px;
   }
+  .count{
+    font-size:15px;
  }
 
  @media (max-width:400px) {
